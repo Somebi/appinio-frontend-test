@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#submit_button {
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.summary {
+  text-align: left;
+}
+
+.summary_content, .original_content {
+  white-space: pre-wrap;
+  text-align: left;
+}
+
